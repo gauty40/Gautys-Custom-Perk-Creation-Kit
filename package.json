@@ -1,0 +1,10 @@
+{
+  "name": "gautys-perk-workshop",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node tests/serve.cjs",
+    "test": "node tests/generator.test.mjs",
+    "build": "node build.cjs"
+  }
+}

@@ -1,0 +1,3 @@
+kronos/custom_scripts/perk_blaze_phase.gsc
+kronos/custom_scripts/perk_vitality.gsc
+kronos/Assets/Lua/bo7_vitality_icon_post.lua

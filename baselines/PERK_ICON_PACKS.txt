@@ -1,0 +1,18 @@
+Select your pack in Kronos HUD Customization > PERK ICONS. The custom HUD uses the canonical image names from Kronos Assets/Images/perks/README.txt. A game restart may be required after adding PNG files.
+
+Optional custom-perk PNGs inside the selected pack:
+ui_icon_perks_zm_custom.png (Vitality)
+ui_icon_perks_zm_bandolier.png
+ui_icon_perks_zm_tortoise.png
+ui_icon_perks_zm_Gautys_Gold.png
+ui_icons_perks_zm_roo_brew.png
+ui_icons_perks_zm_electric_cherry.png
+ui_icon_perks_zm_blaze_phase.png
+
+Missing custom art retains the installed custom icon; existing packs do not automatically contain new perk artwork. Packs and their selection are local cosmetic settings on each PC.
+
+Custom pack image import
+When adding or changing custom-perk PNGs in an icon pack, run this from the cod25 folder (or the package folder):
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Refresh-PerkIconPacks.ps1
+Then fully restart the game. This imports pack PNGs using unique material names; it does not replace the default custom icons or your selected pack.
+The script uses the custom icon filenames declared in the current Lua CUSTOM table. Native perk icons continue to use Kronos's own pack handling.

@@ -1,0 +1,2 @@
+const fs=require('fs'),path=require('path');const root=__dirname;const out=path.join(root,'dist');if(path.dirname(out)!==root||path.basename(out)!=='dist')throw Error('Invalid build directory');fs.rmSync(out,{recursive:true,force:true});fs.mkdirSync(out,{recursive:true});for(const name of ['index.html','assets','baselines'])fs.cpSync(path.join(root,name),path.join(out,name),{recursive:true});fs.writeFileSync(path.join(out,'.nojekyll'),'');console.log('Static GitHub Pages site built in dist/');
+

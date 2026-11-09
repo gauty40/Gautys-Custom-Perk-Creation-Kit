@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/black/ui_icon_eternalperk.pdn",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/black/ui_icon_eternalperk.pdn",
+      "sha256": "baa90a0c68d1133d994dab1dd3e6409e6e7f7c597a6d94b4c50b5c66ba2d7c9d"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/black/ui_icon_eternalperk.png",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/black/ui_icon_eternalperk.png",
+      "sha256": "3c98221b6ad8ef9bf042eae4ff941ca803b52d2431dbfce920b8f5aeb6d0d156"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/Original/frame.json",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/Original/frame.json",
+      "sha256": "ab4ae61874fdf582146bb28b058bd26be96279904e31136c4f1f9f7f9be8ad5a"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/Original/ui_icon_eternalperk.png",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/Original/ui_icon_eternalperk.png",
+      "sha256": "882a13276a1646f458282583fc21d7ebb143878aa834bd16b3fa207b03f72426"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/pack_ids.json",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/pack_ids.json",
+      "sha256": "df0345914292230ec3bd6f7e91c5839fd93d8b20b41a920ac0ca58b9cb7f7c9d"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/README.txt",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/README.txt",
+      "sha256": "5858849164d39a6cbf7935cc00a83cd0f5784bf9f3d89a0a73c8e53c6b5253fa"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/red/frame.json",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/red/frame.json",
+      "sha256": "ab4ae61874fdf582146bb28b058bd26be96279904e31136c4f1f9f7f9be8ad5a"
+    },
+    {
+      "path": "kronos/Assets/Images/eternal_perk_frame/red/ui_icon_eternalperk.png",
+      "url": "baselines/kronos/Assets/Images/eternal_perk_frame/red/ui_icon_eternalperk.png",
+      "sha256": "475adce43565625f81d76f774c613a9b0efdbbb69cc310fb2221783b000c3a9d"
+    },
+    {
+      "path": "kronos/Assets/Images/gcp_eternal_frame_1.png",
+      "url": "baselines/kronos/Assets/Images/gcp_eternal_frame_1.png",
+      "sha256": "882a13276a1646f458282583fc21d7ebb143878aa834bd16b3fa207b03f72426"
+    },
+    {
+      "path": "kronos/Assets/Images/gcp_eternal_frame_2.png",
+      "url": "baselines/kronos/Assets/Images/gcp_eternal_frame_2.png",
+      "sha256": "f51af5d086c4d88bd529f3e84362fd3b4f8df797449991b8d2355258292f4ba0"
+    },
+    {
+      "path": "kronos/Assets/Images/gcp_eternal_frame_3.png",
+      "url": "baselines/kronos/Assets/Images/gcp_eternal_frame_3.png",
+      "sha256": "3c98221b6ad8ef9bf042eae4ff941ca803b52d2431dbfce920b8f5aeb6d0d156"
+    },
+    {
+      "path": "kronos/Assets/Images/gcp_eternal_frame_4.png",
+      "url": "baselines/kronos/Assets/Images/gcp_eternal_frame_4.png",
+      "sha256": "475adce43565625f81d76f774c613a9b0efdbbb69cc310fb2221783b000c3a9d"
+    },
+    {
+      "path": "kronos/Assets/Images/gcp_pack_d23576c763f353887ea8.png",
+      "url": "baselines/kronos/Assets/Images/gcp_pack_d23576c763f353887ea8.png",
+      "sha256": "c83790345763bbf5ed59be4949fd0c090e58c174e292d06f3c6fbcae116f74c3"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_double_tap.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_double_tap.png",
+      "sha256": "44b17da83d21ef1586fe72ed3615bfc8d7d18a165aa20d09f53b045b3961a82b"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_melee_macchiato.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_melee_macchiato.png",
+      "sha256": "4289693332be840c852da79de2a891df659982a73d95953ec01724434dbe213b"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_vulture_aid.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_vulture_aid.png",
+      "sha256": "f12bd260c8ea5d60d1f74d207ada3ea4719bd354cc4f32665a715aaef45aa887"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_widows_wine.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_widows_wine.png",
+      "sha256": "1d34440b565f5350e7c403f5e8e82fc3457f1f26f9e52d113d6a3603046d14bb"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_wisp_tea.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_wisp_tea.png",
+      "sha256": "d49fd28f30769b1115c4f55dc93d70df1fcd83438c78269a365fbf2a3ba03b6a"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_deadshot.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_deadshot.png",
+      "sha256": "4b5857f986fb2b3cb9d0b8877e6395b6950d61c1cfe986454e277c39981bd2ae"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_deathperception.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_deathperception.png",
+      "sha256": "3807dfb809a50c72d49e3d3f080eacf589b2cc049927f9a5a109e65297efd3a7"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_elemental_pop.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_elemental_pop.png",
+      "sha256": "c3cd4625362d369bd2ca37cd71c017d6dd90e3a67185749dbf7ca19a54e606de"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_juggernaut.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_juggernaut.png",
+      "sha256": "6223c90a972114d0e237d318f720ef76768e9ca771263e9a9ee2483323b6956e"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_mulekick.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_mulekick.png",
+      "sha256": "73c174e3f66fa2154be288c1eebc77b5934b1ec123ee20da39c4e25320906674"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_phdslider.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_phdslider.png",
+      "sha256": "0a7d721a41ce45225cbcf7b2c5603bb4fa517de960ff62e7fe5824bf817771c4"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_quickrevive.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_quickrevive.png",
+      "sha256": "60c7605f15b9b4c99ce98926bf4e7bbf1a21866eb26c6179a02295f3e6dd09b4"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_speedloader.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_speedloader.png",
+      "sha256": "4bdab1d8fffd372f1b584453884e53a7c3ca0520ed85e827bf65c2528249164c"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_staminup.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 1/ui_icon_perks_zm_staminup.png",
+      "sha256": "b1fec657172964d5c83ec743470b9141728dd7e9fbde3dd607c34c3e326e4555"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_double_tap.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_double_tap.png",
+      "sha256": "f3c6c6c12f2ffa8985ee7ce00b488438c41912907ee6b64d94598426323dcf77"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_melee_macchiato.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_melee_macchiato.png",
+      "sha256": "cee257e5e875d56c2dec6d58e62042f5d1b6bcd530ef118aaa2287ac3b4f29a9"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_vulture_aid.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_vulture_aid.png",
+      "sha256": "146385c834d8304fb0285a24c00a5a968ac3707da032af1abb1677cc05dca431"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_widows_wine.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_widows_wine.png",
+      "sha256": "d6ab9190ad8d7cc705b53e04d6ad01cb8354e4d8153f527c2a7ed75ce53f233c"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_wisp_tea.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_wisp_tea.png",
+      "sha256": "1fe46056cba1558008601c46a1c536590c9ff0cac1587075c5b7507da50c2a37"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_deadshot.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_deadshot.png",
+      "sha256": "f028444b9792996ed6f8d18167bc4fcf90fb98017f2873552cfd16a140b4f737"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_deathperception.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_deathperception.png",
+      "sha256": "a73dd80a7e5bbab4b99dffdcf88a2531c1670a6f03cf1a84958fee7db531a4cf"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_elemental_pop.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_elemental_pop.png",
+      "sha256": "0c92f7ec3ee08c5c0c0a3f252f7e6682876bcfc5f44e566e6943f2ee0768137a"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_Gautys_Gold.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_Gautys_Gold.png",
+      "sha256": "c83790345763bbf5ed59be4949fd0c090e58c174e292d06f3c6fbcae116f74c3"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_juggernaut.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_juggernaut.png",
+      "sha256": "c04683eed4ace64a83c752ddca8bbb805c2411862eb649fe91ad2562a73d6bd7"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_mulekick.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_mulekick.png",
+      "sha256": "aeaaadac9d4d7f68da2bd5961c72b21498070666bb741a30cfc40fe43bdbf5cc"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_phdslider.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_phdslider.png",
+      "sha256": "f5b6b6b19396013b4fe65913b5ceb6e41fa485cc1e1682d680ae4c338f1a7e7d"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_quickrevive.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_quickrevive.png",
+      "sha256": "02df8686b782104b23b276f9bf0392889554c8cbf269c4c489c6013f3152ffa7"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_speedloader.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_speedloader.png",
+      "sha256": "4092bdf57c0bcb8420bbf18a6d33126ca1c3c2b3571cafbd894044b94ffdc6fa"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_staminup.png",
+      "url": "baselines/kronos/Assets/Images/perks/Black Ops 2/ui_icon_perks_zm_staminup.png",
+      "sha256": "ff7db77314c7e80a341fb8ae6c82393ecd422d4e5d3474137fe68c1b83a3b489"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_double_tap.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_double_tap.png",
+      "sha256": "1d9b45ac9cb51d76905ca692a1c9e6b09b0a5186d28c84fa91e6ac8904cb2b1e"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_melee_macchiato.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_melee_macchiato.png",
+      "sha256": "9f620d0745128d6403d9d10ec2ea1d6dea3d82bcadd79fb5f0dc33161fe96b03"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_vulture_aid.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_vulture_aid.png",
+      "sha256": "889323fce26595fe0805812c217cf7bd3b38645e3399a9c35d91ed22e05e461f"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_widows_wine.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_widows_wine.png",
+      "sha256": "ebee437428952c9532b7a234b8d4930ec147b0dd763c7cb0edd7ae8482ef5087"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_wisp_tea.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_wisp_tea.png",
+      "sha256": "eea15b2a28b4d0a82589ed2ee6879316e78b5469a1b2cfbdfabd647a4243f5ae"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_custom.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_custom.png",
+      "sha256": "c3b762ef909c47a5783c55515a17c56bd98fefa01cf2bf192780ce6589a73122"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_deadshot.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_deadshot.png",
+      "sha256": "7c88a346699582c50504d73daa2d5373c52f964d2d88c84e713d33432af3c6e4"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_deathperception.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_deathperception.png",
+      "sha256": "da5d0d490ad72e2b3f4cbcf8aa3b26357c63c8df380c9b07115c94eeee56e729"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_elemental_pop.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_elemental_pop.png",
+      "sha256": "577c56843949a1eb14aa91b8252f23ae3ae5cf65190b29c91c447c9ca31a1dad"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_juggernaut.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_juggernaut.png",
+      "sha256": "924eeb5dd12fd5ff828030d9110f8aa43b6d624f0269bf3ef8349996c0639b95"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_mulekick.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_mulekick.png",
+      "sha256": "32a982d852cdecc3eea3e737e03ead9139075480fa4844dc7f16a7102ead885d"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_phdslider.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_phdslider.png",
+      "sha256": "a7abcb176cf07048f867b2d3b4c2979e082c6a5e00502945cfe06fbb7fd6a6e5"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_quickrevive.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_quickrevive.png",
+      "sha256": "7aa4fe8772941fef97bb30516476c6f59774419f232db7d9691d6915b4627a59"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_speedloader.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_speedloader.png",
+      "sha256": "025b6d2b95c66e8fbc8f989181eb80063c865cc637453ca2f4ef11d10e9bd9e5"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_staminup.png",
+      "url": "baselines/kronos/Assets/Images/perks/neon 2/ui_icon_perks_zm_staminup.png",
+      "sha256": "5b9075326c1fed7836b8bc77de3f40e3a63649127b9569397c981be2053bb0fb"
+    },
+    {
+      "path": "kronos/Assets/Images/perks/README.txt",
+      "url": "baselines/kronos/Assets/Images/perks/README.txt",
+      "sha256": "acaae02d247600511c195e3d4f4f45e1169fd7cf6d57995572a5d8f22e020c2a"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icons_perks_zm_electric_cherry.png",
+      "url": "baselines/kronos/Assets/Images/ui_icons_perks_zm_electric_cherry.png",
+      "sha256": "0652645a42dd52566f2bfca1e8baf70b504a2002c70e91a7d0018f96307072c4"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icons_perks_zm_roo_brew.png",
+      "url": "baselines/kronos/Assets/Images/ui_icons_perks_zm_roo_brew.png",
+      "sha256": "19aaf52935452c5b96df7e16e952ba3707614fe35094299478465480ae9e1645"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icon_eternalperk.png",
+      "url": "baselines/kronos/Assets/Images/ui_icon_eternalperk.png",
+      "sha256": "882a13276a1646f458282583fc21d7ebb143878aa834bd16b3fa207b03f72426"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icon_perks_zm_bandolier.png",
+      "url": "baselines/kronos/Assets/Images/ui_icon_perks_zm_bandolier.png",
+      "sha256": "bb14e327a002d2568ee927f2999153f23a793c39ccab8d91196a53ccb63765b7"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icon_perks_zm_Gautys_Gold.png",
+      "url": "baselines/kronos/Assets/Images/ui_icon_perks_zm_Gautys_Gold.png",
+      "sha256": "6ba508e8371c9c2d029ce2d4b16daad83429fc5246522db07ffe8750a6a7358c"
+    },
+    {
+      "path": "kronos/Assets/Images/ui_icon_perks_zm_tortoise.png",
+      "url": "baselines/kronos/Assets/Images/ui_icon_perks_zm_tortoise.png",
+      "sha256": "b2e397811b44e509677d979a6f2e3c6e1f22986251fa9eb2e8b396c2aab1a2a8"
+    },
+    {
+      "path": "kronos/Assets/Lua/bo7_custom_perks_post.lua",
+      "url": "baselines/kronos/Assets/Lua/bo7_custom_perks_post.lua",
+      "sha256": "b52a10731f5527d1f399ff17bc091c4476c29b42a387bc97cc1313a4fae0652f"
+    },
+    {
+      "path": "kronos/Assets/Lua/bo7_custom_perk_pack_assets_post.lua",
+      "url": "baselines/kronos/Assets/Lua/bo7_custom_perk_pack_assets_post.lua",
+      "sha256": "cc29913622b30ce225cddc6b90401b910395606b3c96960b5435db9a46c11cb6"
+    },
+    {
+      "path": "kronos/Assets/Lua/bo7_custom_perk_toggles_post.lua",
+      "url": "baselines/kronos/Assets/Lua/bo7_custom_perk_toggles_post.lua",
+      "sha256": "63182acd7a677a04f8c182237d0fca3cb22718cee10d12a628f1c2e103b8e707"
+    },
+    {
+      "path": "kronos/Assets/Lua/bo7_eternal_frame_packs_post.lua",
+      "url": "baselines/kronos/Assets/Lua/bo7_eternal_frame_packs_post.lua",
+      "sha256": "fd391ee0a399b49c37fc079a6628f79f80cefb2fdb3f75a46c7c16d5aaf6405e"
+    },
+    {
+      "path": "kronos/custom_scripts/mp_bo6_store.gsc",
+      "url": "baselines/kronos/custom_scripts/mp_bo6_store.gsc",
+      "sha256": "9bb46090a0cf0ea0074fa3a87566cc50c5555e6a124cb2adab3185a0bbda873e"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_bandolier.gsc",
+      "url": "baselines/kronos/custom_scripts/perk_bandolier.gsc",
+      "sha256": "f9f3255b68ce976a973eab29f9898120f0e2ce223bf0cdd07bf7924fe3ea7fd6"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_electric_cherry.gsc",
+      "url": "baselines/kronos/custom_scripts/perk_electric_cherry.gsc",
+      "sha256": "3e5d99502072678b05e75afce44e5b50f6502b6e7d4080832bcc54ff39fb8ba0"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_gautys_gold.gsc",
+      "url": "baselines/kronos/custom_scripts/perk_gautys_gold.gsc",
+      "sha256": "0ec996754b7b47b9d2ef4fee88f552987878076cb839fb7d73c8e4a5d734f9a4"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_jug2.gsc",
+      "url": "baselines/kronos/custom_scripts/perk_jug2.gsc",
+      "sha256": "56161d3fd432e2c12fe6cb142c173d5ca11007c6857b14bf8adbdbcba5e21c68"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_template.gsc.template",
+      "url": "baselines/kronos/custom_scripts/perk_template.gsc.template",
+      "sha256": "e6039f0630f0e4bb406d1f78a293c9d11bfe9db6a1619f7ced5fea4bf2f4df59"
+    },
+    {
+      "path": "kronos/custom_scripts/perk_tortoise.gsc",
+      "url": "baselines/kronos/custom_scripts/perk_tortoise.gsc",
+      "sha256": "e90ab3d6a59872a62c8acb8cf27a282362c71b9154f1fcd58112a3e46e5e62c9"
+    },
+    {
+      "path": "kronos/custom_scripts/zm_cp_custom_perks.gsc",
+      "url": "baselines/kronos/custom_scripts/zm_cp_custom_perks.gsc",
+      "sha256": "acecec23f47f2efeba4f7bf31edead9194fec421e8d20cc518bef7b21b10e3fd"
+    },
+    {
+      "path": "MAKE_A_PERK.txt",
+      "url": "baselines/MAKE_A_PERK.txt",
+      "sha256": "e3cd2d2b442cbc2555fa6113e4c0d7933988419b7cfa9e4fad8311cd53838edc"
+    },
+    {
+      "path": "PERK_ICON_PACKS.txt",
+      "url": "baselines/PERK_ICON_PACKS.txt",
+      "sha256": "a1a9840618f77eab380994252ab58126bc55c38818d0b9d4b9d96f71813a4bdd"
+    },
+    {
+      "path": "Refresh-EternalPerkFrames.ps1",
+      "url": "baselines/Refresh-EternalPerkFrames.ps1",
+      "sha256": "dc90b9db134f090150b75eac94904a43e546e08e596a05226a7065a5c3738c3d"
+    },
+    {
+      "path": "Refresh-PerkIconPacks.ps1",
+      "url": "baselines/Refresh-PerkIconPacks.ps1",
+      "sha256": "e1a1cd3546fd15ff217d102adb3337caff4b4166575ad522b30712ceddecb7b5"
+    },
+    {
+      "path": "REMOVED_PERKS.txt",
+      "url": "baselines/REMOVED_PERKS.txt",
+      "sha256": "7f65eed6b26696dbd35e91a991aa6c21bbf9a66e54ececc036d026270332f5ea"
+    }
+  ]
+}

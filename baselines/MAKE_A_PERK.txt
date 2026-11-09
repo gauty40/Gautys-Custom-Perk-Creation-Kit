@@ -1,0 +1,23 @@
+MAKING A PERK
+
+1. Copy gsc/perk_template.gsc.template to a new file named perk_your_perk.gsc. Do not edit the baseline itself for each new perk.
+2. Replace every template_perk with your lowercase ID, for example ember_brew. This updates the namespace, functions, perk reference, ownership marker and augment fields together. Do not use spaces or punctuation in IDs.
+3. Change def["code"] to a unique unused perk code. The example uses 85; check the current Lua CUSTOM table and your installed perks before choosing a code.
+4. Set the display name, description and price in def. Keep drink_from as specialty_juggernog unless you have tested another drink animation.
+5. Optional icon: put ui_icon_perks_zm_your_perk.png in the kit's Images folder and set icon_material to "ui_icon_perks_zm_your_perk" without the extension. Undefined uses the standard fallback.
+6. The example restores 1 HP each second. Major 1 doubles that to 2; minor 1 adds 1. Together they restore 3. Major 2 instead sets jump-height scale to 4. Its code is in template_perk_effect(), and its cleanup is in template_perk_reset_jump()/take_template_perk(). Replace the body of the effect loop with your own behavior and update the descriptions.
+7. Augment menu entries come from the // @augment lines. Keep this syntax exactly. Each type is numbered separately from 1 in declaration order; 0 means unselected or not yet synced. Support both minor and bonus fields because a minor may occupy either slot. Use OR so selecting the same effect never applies it twice.
+8. To omit augments, remove both metadata lines and the example augment modifiers. For augments, supply at least one major; minor augments are optional, up to nine each. The kit creates the menu and co-op routes, not gameplay code from the descriptions.
+9. Read self.cp_YOUR_ID_major/minor/bonus on the player. Never use a level-wide pick or the host's Dvar for gameplay. Keep reading fields during the effect so late co-op sync is picked up. Existing Gauty's Gold is a legacy exception using cp_gold_*.
+10. Keep the give/take ownership markers and stop notifications. Give stops an earlier effect loop; take stops it again. Undo any persistent health, speed or weapon changes in take when writing your own effects.
+11. Open the kit, select the new GSC and click Install. Multiple files can be selected with Ctrl/Shift. Review output/kronos, then copy that folder into cod25. Install matching output on every co-op PC. Delete changed scripts' matching custom_scripts/compiled/*.gscc caches and fully restart.
+12. Test with no augments, each augment separately, both minor slots, perk removal/reacquisition and different host/guest selections. Generated code compilation does not prove the effect works in-game.
+
+Current template: per-player augment fields, explicit function declarations, health caps, last-stand protection and effect-thread cleanup. No charge arithmetic or transport editing is needed to add a normal perk.
+
+The examples cover a base effect, mutually exclusive majors, either minor slot, late selection sync, and persistent-effect cleanup. They do not implement every possible gameplay mechanic. High Jumper uses setjumpheightscale(4), matching Roo Brew's mechanism with a different scale. Removing it restores normal scale, or scale 5 if Roo Brew is currently owned. Jump modifiers from additional mods need their own stacking rules; this example is not a universal modifier manager.
+
+New perks automatically appear in the Custom Perks toggle menu. The kit adds a saved on/off switch even without augments. Pack imports discover icons listed in the generated CUSTOM table: run Refresh-PerkIconPacks.ps1 after adding artwork, and Refresh-EternalPerkFrames.ps1 after adding frame folders. Both scripts are exported beside output/kronos.
+
+AUTHOR CREDIT
+Set def["creator"] = "Your Name"; in your perk GSC, then install/reapply it using the kit. The Custom Perks panel displays Created By: Your Name above the selected perk preview. Use an empty string or omit the field to hide the credit. Multiple authors can share one string. The kit preserves credits when remembering perks; older registry files without credits still load.
